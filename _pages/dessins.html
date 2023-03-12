@@ -1,0 +1,46 @@
+---
+title: Dessins
+permalink: /dessins/
+date: 2023-01-01T03:10:48+02:00
+last_modified_at: 2023-01-22 00:24:48 +0100
+author: Yves
+layout: default
+---
+
+<section class="cf pb5 ph5-ns ph2">
+  <f1 class="f1 lh-title b helvetica pv4">Dessin(s)</f1>
+ 
+  <article class="flex-ns flex-wrap">
+
+    {% assign posts = site.posts | where_exp: "post", "post.categories contains 'dessin'" %}
+    {% for post in posts %}
+
+<div class="w-100 w-25-l pa1">
+
+  <div class="aspect-ratio aspect-ratio--4x6" itemscope itemtype="http://schema.org/Blog" data-columns>
+
+  <a href="{{ post.url }}" style="background-image:url({{ post.image }});"
+      class="grow dt hide-child db bg-center cover aspect-ratio--object"  />
+    </a>
+
+<span class="pa3 dib v-mid black truncate w-100 lh-copy avenir">{{ post.description_markdown | truncate: 92 | markdownify  }}</span>
+</div>
+
+<article itemscope itemtype="https://schema.org/Drawing" class="template-details dib v-mid lh-copy avenir">
+  <h3><a class="f5 f4-ns mb0 link black-90 link dim avenir" href="{{ post.url }}"><span itemprop="name">{{ post.title }}</span></h3></a>
+  
+
+  <div itemprop="description" class="post-description f6 f5 fw4 mt1 black-60 pb2">
+    {{ post.description_markdown | truncate: 92 | markdownify }}
+  </div>
+</article>
+
+</div>
+
+{% endfor %}
+
+  </article>
+
+  <br>
+{% include site-search.html %}
+</section>

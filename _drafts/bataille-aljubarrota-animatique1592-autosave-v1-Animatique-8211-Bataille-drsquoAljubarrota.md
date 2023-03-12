@@ -1,0 +1,99 @@
+---
+id: 2525
+title: 'Animatique &#8211; Bataille d&rsquo;Aljubarrota'
+date: 2017-05-05T13:53:01+02:00
+author: Yves
+excerpt: |
+  <a title="Vangard cavalry Aljubarrota" href="http://film-storyboards.fr/animatique/" rel=""><title ="Charge des chevaliers français à Aljubarrota" src="http://film-storyboards.fr/wp-content/uploads/2014/03/charge-chevaliers-aljubarrota-bataille.jpg" alt="Illustration — Charge des chevaliers français à Aljubarrota"></title></a>
+  
+  Storyboard pour les audio-guides du centre d'Interprétation de la Bataille d'Aljubarrota.
+layout: revision
+guid: http://film-storyboards.fr/1592-autosave-v1/
+permalink: /1592-autosave-v1/
+---
+<div id='gallery-17' class='gallery galleryid-2525 gallery-columns-2 gallery-size-full'>
+  <figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/aljubarrota-bataille-general-confrontation-emissaires/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/Aljubarrota-bataille-general-confrontation-emissaires.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2005" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/Aljubarrota-bataille-general-confrontation-emissaires.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/Aljubarrota-bataille-general-confrontation-emissaires-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/Aljubarrota-bataille-general-confrontation-emissaires-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/Aljubarrota-bataille-general-confrontation-emissaires-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2005'> Confrontation des émissaires de l&rsquo;armée de Castille avec Nuno Alvarez Pereira avant la bataille </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/nuno-alvares-pereira-troupes/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/Nuno-Alvares-Pereira-troupes.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2022" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/Nuno-Alvares-Pereira-troupes.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/Nuno-Alvares-Pereira-troupes-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/Nuno-Alvares-Pereira-troupes-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/Nuno-Alvares-Pereira-troupes-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2022'> Les troupes portugaises, conduites par Nuno Alvarez Pereira </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/armees-position-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/armees-position-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2016" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/armees-position-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/armees-position-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/armees-position-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/armees-position-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2016'> Position des armées -Bataille d&rsquo;Aljubarrota </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/jean-de-castille-tente/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/Jean-de-Castille-tente.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2021" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/Jean-de-Castille-tente.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/Jean-de-Castille-tente-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/Jean-de-Castille-tente-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/Jean-de-Castille-tente-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2021'> Les officiers sous la tente de Jean de Castille </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/disposition-troupes-castille-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/disposition-troupes-castille-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2010" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/disposition-troupes-castille-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/disposition-troupes-castille-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/disposition-troupes-castille-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/disposition-troupes-castille-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2010'> Position de l&rsquo;avant-garde des troupes de Castille avant la Bataille d&rsquo;Aljubarrota </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/charge-chevaliers-aljubarrota-bataille/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/charge-chevaliers-aljubarrota-bataille.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2017" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/charge-chevaliers-aljubarrota-bataille.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/charge-chevaliers-aljubarrota-bataille-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/charge-chevaliers-aljubarrota-bataille-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/charge-chevaliers-aljubarrota-bataille-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2017'> Charge de la cavalerie française à Aljubarrota </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/chevaliers-francais-assault-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-francais-assault-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2020" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-francais-assault-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-francais-assault-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-francais-assault-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-francais-assault-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2020'> Chevaliers français durant l&rsquo;assault à Aljubarrota </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/avant-garde-cavalerie-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-cavalerie-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2023" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-cavalerie-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-cavalerie-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-cavalerie-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-cavalerie-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2023'> Avant-garde de la cavalerie arrêtée par la défense portugaise </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/alubarrota-bataille-vue-oiseau/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/Alubarrota-bataille-vue-oiseau.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2006" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/Alubarrota-bataille-vue-oiseau.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/Alubarrota-bataille-vue-oiseau-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/Alubarrota-bataille-vue-oiseau-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/Alubarrota-bataille-vue-oiseau-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2006'> Position des troupes portugaises encerclant l&rsquo;avant-garde des Castillans </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/chevaliers-pieges-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-pieges-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2018" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-pieges-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-pieges-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-pieges-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-pieges-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2018'> Chevaliers pris au piège durant la bataille </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/bataille-aljubarrota-chevaliers-desarconnes/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-aljubarrota-chevaliers-desarconnés.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2008" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-aljubarrota-chevaliers-desarconnés.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-aljubarrota-chevaliers-desarconnés-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-aljubarrota-chevaliers-desarconnés-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-aljubarrota-chevaliers-desarconnés-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2008'> Les chevaliers désarçonnés continuent le combat à terre </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/avant-garde-combat-aljubarrota-bataille/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-combat-aljubarrota-bataille.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2015" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-combat-aljubarrota-bataille.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-combat-aljubarrota-bataille-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-combat-aljubarrota-bataille-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/avant-garde-combat-aljubarrota-bataille-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2015'> Combattants des premières lignes </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/chevalerie-aljubarrota-pertes/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/chevalerie-aljubarrota-pertes.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2011" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/chevalerie-aljubarrota-pertes.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevalerie-aljubarrota-pertes-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevalerie-aljubarrota-pertes-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevalerie-aljubarrota-pertes-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2011'> Les pertes sont lourdes dans le camps de Castille lors du premier assault </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/combat-epee-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/combat-epee-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2014" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/combat-epee-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/combat-epee-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/combat-epee-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/combat-epee-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2014'> Combats rapprochés </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/bataille-rangee-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-rangee-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2012" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-rangee-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-rangee-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-rangee-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/bataille-rangee-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2012'> Fin de la bataille rangée </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/chevaliers-retraite-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-retraite-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2013" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-retraite-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-retraite-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-retraite-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevaliers-retraite-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2013'> Retraite en désordre des assaillants </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/chevalier-defaite-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/chevalier-defaite-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2007" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/chevalier-defaite-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevalier-defaite-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevalier-defaite-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/chevalier-defaite-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2007'> Retraite sans espoir </figcaption></figure><figure class='gallery-item'> 
+  
+  <div class='gallery-icon landscape'>
+    <a href='https://film-storyboards.fr/bataille-aljubarrota-animatique/apres-la-bataille-aljubarrota/'><img width="954" height="591" src="https://film-storyboards.fr/wp-content/uploads/2014/03/après-la-bataille-aljubarrota.jpg" class="attachment-full size-full" alt="" aria-describedby="gallery-17-2009" srcset="https://film-storyboards.fr/wp-content/uploads/2014/03/après-la-bataille-aljubarrota.jpg 954w, https://film-storyboards.fr/wp-content/uploads/2014/03/après-la-bataille-aljubarrota-312x193.jpg 312w, https://film-storyboards.fr/wp-content/uploads/2014/03/après-la-bataille-aljubarrota-600x371.jpg 600w, https://film-storyboards.fr/wp-content/uploads/2014/03/après-la-bataille-aljubarrota-768x476.jpg 768w" sizes="(max-width: 954px) 100vw, 954px" /></a>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-2009'> Désolation après la bataille </figcaption></figure>
+</div>
+
+&nbsp;
+
+Illustrations interactives pour le Centre d&rsquo;interprétation de la bataille d&rsquo;Aljubarrota. Les séquences interactives reconstituent les moments clés du combat.  
+Client: <a title="Fundação Batalha de Aljubarrota" href="http://www.fundacao-aljubarrota.pt" target="_blank" rel="noopener noreferrer">Fundação Batalha de Aljubarrota</a>, Portugal.
+
+Project design: <a href="http://www.maverick-ics.be/" target="_blank" rel="noopener noreferrer">Maverick ICS</a>.
+
+Post production: <a href="http://www.komkomdoorn.com/" target="_blank" rel="noopener noreferrer">KomKom Doorn</a>.
+
+A voir dans le même registre, les storyboards d&rsquo;[Aljubarrota, Bataille Royale](http://film-storyboards.fr/aljubarrota-bataille-royale/ "Animatics").

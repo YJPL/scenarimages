@@ -1,0 +1,31 @@
+{
+  "name": "extend-options",
+  "version": "0.0.1",
+  "description": "Basic object extending for two Javascript hash objects, intended for merging options.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/extend-options.git"
+  },
+  "keywords": [
+    "merge",
+    "options",
+    "object",
+    "extend"
+  ],
+  "author": "John Otander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/extend-options/issues"
+  },
+  "homepage": "https://github.com/johnotander/extend-options",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}

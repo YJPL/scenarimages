@@ -1,0 +1,23 @@
+# UI Default Settings
+author_bio        : true # Show author bio
+post_meta         : true # Show post meta
+share_icons       : true # Show post social sharing icons
+category_tag_list : true # Show post categories & tags
+# collection_tag_list : true # Show post collection & tags — Unsupported, see https://github.com/jekyll/jekyll/pull/5857
+
+# UI Default Text
+text:
+    # Post Settings
+    updated           : Updated
+    words_per_minute  : 200
+    less_than         : Moins de
+    minute_read       : min de lecture
+    undefined_wpm     : Undefined parameter text.words_per_minute in your theme.yml
+    caption           : Crédits image
+
+    # Home Layout Settings
+    post_limit        : 12
+    read_more         : Lire plus
+    latest_articles   : Articles Récents
+    full_archive      : Tous les Articles
+    full_archive_url  : /archive/
