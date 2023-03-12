@@ -1,23 +1,24 @@
 {
-  "name": "FilmStoryboards",
+  "name": "Scénarimages",
   "version": "1.0.0",
-  "description": "storyboards portfolio built with Jekyll and Tachyons",
+  "description": "Portfolio, Illustration de production",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YJPL/film-storyboards/",
+    "url": "https://github.com/YJPL/scenarimages/",
     "scripts": {
       "gulp": "gulp"
     }
   },
   "keywords": [
     "portfolio",
-    "storyboards"
+    "storyboard",
+    "scénarimages"
   ],
   "author": "YJPL",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YJPL/film-storyboards/issues"
+    "url": "https://github.com/YJPL/scenarimages/issues"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
