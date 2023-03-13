@@ -6,8 +6,8 @@ google_analytics_key:
 
 # SEO tags values (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/author.jpg
-tagline: Story artist portfolio site
-description: Film Storyboards is a one-person studio focusing on production design and visual storytelling. I draw for films, animation, and cross media projects. Call for a tailored solution to visualize, pitch, plan, and budget your film or project.
+tagline: Scénarimages, storyboards et illustration de production
+description: Scénarimages est un studio unipersonnel axé sur la conception et la narration visuelle de films, animations et séries. Demandez une solution sur mesure pour visualiser, présenter, planifier et budgétiser votre film ou projet.
 twitter:
   username: FilmStoryboards  # twitter username without the @ symbol
   card: summary
@@ -23,6 +23,7 @@ social:
     - https://www.instagram.com/filmstoryboards
     - https://www.facebook.com/filmstoryboards
     - https://www.linkedin.com/company/film-storyboards
+    - https://filmstoryboards.substack.com
 image: /images/film-storyboards-screenshot.png
 locale: En
 
