@@ -9,7 +9,7 @@ guid: https://film-storyboards.fr/?page_id=2513
 permalink: /modeles-mise-en-page/
 ---
 
-Il est facile de trouver sur le web des modèles de mise en page prêts à l'emploi pour dessiner des storyboards, principalement en PDF. Mais quand il s'agit de créer ou de modifier une présentation, d'ajouter rapidement du texte et d&rsquo;importer des images, il est plus pratique d&rsquo;utiliser un programme de mise en page comme **Adobe InDesign** ou même une application plus simple comme **Apple Keynote**. Voici des fichiers de gabarits conçus pour différents formats de film, modifiables avec Adobe InDesign ( **IDML**) ou Keynote ( **.kth )**. Ces fichiers et beaucoup d'autres sont disponibles sur [https://storyboards.gumroad.com](https://storyboards.gumroad.com); le paiement est sécurisé par Gumroad. Certains modèles sont gratuits ( formats PDF, PSD, AI ). Une fois obtenu, il suffit d'ouvrir chaque fichier avec InDesign ou Keynote et de placer vos images et votre texte. Pour les fichiers InDesign, seuls deux calques sont actifs: **image** et **texte**. Vous pouvez également utiliser ou masquer un calque (règle de tiers), très utile pour ajuster le cadre de votre composition. Modifiez le texte, ajustez la mise en page, placez votre logo, etc. Ensuite, exportez votre storyboard fini en PDF. Pour ajouter des pages, clic droit sur la (les) page (s) sélectionnée (s) dans l'onglet « pages », et dupliquez les modèles de votre choix. Pour les fichiers Keynote, c'est encore plus simple et plus rapide, une fois familiarisé avec le programme. Pour l'instant tous ces fichiers sont en anglais.
+Il est facile de trouver sur le web des modèles de mise en page prêts à l'emploi pour dessiner des storyboards, principalement en PDF. Mais quand il s'agit de créer ou de modifier une présentation, d'ajouter rapidement du texte et d&rsquo;importer des images, il est plus pratique d'utiliser un programme de mise en page comme **Adobe InDesign** ou même une application plus simple comme **Apple Keynote**. Voici des fichiers de gabarits conçus pour différents formats de film, modifiables avec Adobe InDesign ( **IDML**) ou Keynote ( **.kth )**. Ces fichiers et beaucoup d'autres sont disponibles sur [https://storyboards.gumroad.com](https://storyboards.gumroad.com); le paiement est sécurisé par Gumroad. Certains modèles sont gratuits ( formats PDF, PSD, AI ). Une fois obtenu, il suffit d'ouvrir chaque fichier avec InDesign ou Keynote et de placer vos images et votre texte. Pour les fichiers InDesign, seuls deux calques sont actifs: **image** et **texte**. Vous pouvez également utiliser ou masquer un calque (règle de tiers), très utile pour ajuster le cadre de votre composition. Modifiez le texte, ajustez la mise en page, placez votre logo, etc. Ensuite, exportez votre storyboard fini en PDF. Pour ajouter des pages, clic droit sur la (les) page (s) sélectionnée (s) dans l'onglet « pages », et dupliquez les modèles de votre choix. Pour les fichiers Keynote, c'est encore plus simple et plus rapide, une fois familiarisé avec le programme. Pour l'instant tous ces fichiers sont en anglais.
 
 ## 01. InDesign Storyboard modèle mise en page Scope 2.39:1 Courier New 10pt DIN A4 horizontal numéroté
 
@@ -72,7 +72,7 @@ Il est facile de trouver sur le web des modèles de mise en page prêts à l'em
 
 &nbsp;
 
-_Voir plus de [modèles en magasin](https://gumroad.com/storyboards)._
+Voir plus de [modèles en magasin](https://storyboards.gumroad.com).
 
 S&rsquo;inscrire pour suivre les mises à jours des layouts.
 
