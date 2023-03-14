@@ -17,13 +17,12 @@ guid: http://film-storyboards.com/?page_id=2
 
 ***
 
+_**Scénarimages**_ est un studio unipersonnel axé sur le dessin, le storyboard et le design de production. [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). Je dessine les storyboards de vos films, publicités, séries et animations.
 
-_**Film Storyboards**_ is a one person studio focusing on production design and [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). I draw for film, animation, and cross media projects.
-
-In addition to storyboarding, the practice also provides production companies with concept art, character visual development and set design.
+Pre visualisation, concept art, développement de personnages et set design sont aussi au menu.
 
 
-Contact: _Yves Capelle_
+Contact: *Yves Capelle*
 
 Mobile: +32 475 418 327  
  [email enquiries](mailto:yves@film-storyboards.com?subject=Inquiry%20from%20film%20storyboards%20site)  
