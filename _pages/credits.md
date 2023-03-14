@@ -12,7 +12,7 @@ guid: http://film-storyboards.fr/?page_id=816
 ## Longs métrages
 *The Pod Generation* **Sophie Barthes** — Production Services Belgium — 2022. Storyboards VFX & SFX. 
 
-*Baghdad Messi* **Sahim Omar Kalifa** — Storyboard, 
+*Baghdad Messi* **Sahim Omar Kalifa** — — A Team Productions — 2021. Storyboard, scène de la voiture piégée.
 
 *Zeevonk* **Domien Huyghe** — A Private View — 2021 (in preparation). Storyboard for VFX & SFX sequences. 
 
