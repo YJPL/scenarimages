@@ -2,7 +2,7 @@
 id: 816
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-01-23
+last_modified_at: 2023-03-14
 author: Yves
 layout: page
 permalink: /credits/
@@ -12,30 +12,30 @@ guid: http://film-storyboards.fr/?page_id=816
 ## Longs métrages
 *The Pod Generation* **Sophie Barthes** — Production Services Belgium — 2022. Storyboards VFX & SFX. 
 
-*Baghdad Messi* **Sahim Omar Kalifa** — A Team Productions — 2021. Storyboard for car chase, booby-trap sequence. 
+*Baghdad Messi* **Sahim Omar Kalifa** — Storyboard, 
 
 *Zeevonk* **Domien Huyghe** — A Private View — 2021 (in preparation). Storyboard for VFX & SFX sequences. 
 
-*Piove* **Paolo Strippoli**, — Benuts — 2021. Storyboard for VFX & SFX sequences. 
+*Piove* **Paolo Strippoli** — Benuts — 2021. Storyboard for VFX & SFX sequences. 
 
 
-[Atlantique](https://www.imdb.com/title/tt10199586/) _**Mati Diop**_ &#8211; Concept design pour la tour Muejiza (VFX)
+*[Atlantique](https://www.imdb.com/title/tt10199586/)* **Mati Diop** — Concept design pour la tour Muejiza (VFX)
 
-*Jumbo* **Zoé Wittock** &#8211; Kwassa Films &#8211; 2018. Storyboard pour les séquences VFX & SFX._
+*Jumbo* **Zoé Wittock** — Kwassa Films &#8211; 2018. Storyboard pour les séquences VFX & SFX.
 
-_[Mon Ket](https://www.imdb.com/title/tt8398768/) **François Damiens **&#8211; Artémis Productions &#8211; 2018 (pre production) Storyboard pour le générique et les scènes d&rsquo;évasion avec hélicoptère._
+*[Mon Ket](https://www.imdb.com/title/tt8398768/)* **François Damiens** — Artémis Productions, 2018 (pre production) Storyboard pour le générique et les scènes d&rsquo;évasion avec hélicoptère.
 
-_[Rattrapage](http://www.imdb.com/title/tt6286652/?ref_=ttco_co_tt) _**Tristan Séguéla **&#8211; Umedia / Les films du 24 &#8211; 2016 (pre production) Storyboard pour les scènes avec hélicoptère.
+*[Rattrapage](http://www.imdb.com/title/tt6286652/?ref_=ttco_co_tt)* — **Tristan Séguéla** — Umedia / Les films du 24 &#8211; 2016 (pre production) Storyboard pour les scènes avec hélicoptère.
 
-_[Grand Froid](http://www.gerardpautonnier.com/grand-froid.html) _**Gérard Pautonnier **&#8211; Bactery films &#8211; Panache Productions & La Compagnie Cinématographique &#8211; 2015-2016 (pre production) Storyboard, graphic design, fichiers d&rsquo;impression pour décors et accessoires.
+*[Grand Froid](http://www.gerardpautonnier.com/grand-froid.html)* **Gérard Pautonnier ** — Bactery films &#8211; Panache Productions & La Compagnie Cinématographique &#8211; 2015-2016 (pre production) Storyboard, graphic design, fichiers d&rsquo;impression pour décors et accessoires.
 
-_<a title="Vincent en het einde van de wereld — IMDB" href="http://j.mp/vincent-einde-van-de-wereld" target="_blank" rel="noopener noreferrer">Vincent en het einde van de wereld</a>_ **Christophe Van Rompaey** &#8211; A Private View &#8211; long métrage, 2014 (pre production). Storyboard, accident de voiture.
+*Vincent en het einde van de wereld* **Christophe Van Rompaey** — A Private View, long métrage, 2014 (pre production). Storyboard, accident de voiture.
 
-_<a title="Suite française - IMDB" href="http://www.imdb.com/title/tt0900387/" target="_blank" rel="noopener noreferrer">Suite française</a>_ **Saul Dibb**_ &#8211;_ Production Services Belgium &#8211; long métrage,  2014. Storyboard, scènes avec effets spéciaux.
+*<a title="Suite française - IMDB" href="http://www.imdb.com/title/tt0900387/" target="_blank" rel="noopener noreferrer">Suite française</a>* **Saul Dibb** — Production Services Belgium &#8211; long métrage,  2014. Storyboard, scènes avec effets spéciaux.
 
-_[The Hot Potato](http://film-storyboards.com/the-hot-potato/ "The Hot Potato") _**Tim Lewiston** &#8211; Wardour Pictures / Novak Prod &#8211; long métrage, 2010.  Storyboard, scènes avec effets spéciaux, course poursuite avec voitures d&rsquo;époque.
+_[The Hot Potato](http://film-storyboards.com/the-hot-potato/ "The Hot Potato") _**Tim Lewiston** — Wardour Pictures / Novak Prod &#8211; long métrage, 2010.  Storyboard, scènes avec effets spéciaux, course poursuite avec voitures d&rsquo;époque.
 
-_<a title="Où Est La Main De L'Homme Sans T^te" href="http://www.ouestlamain.com/" target="_blank" rel="noopener noreferrer">Où Est La Main de L’Homme Sans Tête?</a> _**Guillaume Malandrin** &#8211; La Parti Production &#8211; long métrage, 2009. Storyboard, scènes avec effets spéciaux.
+*<a title="Où Est La Main De L'Homme Sans T^te" href="http://www.ouestlamain.com/" target="_blank" rel="noopener noreferrer">Où Est La Main de L’Homme Sans Tête?</a>* **Guillaume Malandrin** — La Parti Production, long métrage, 2009. Storyboard, scènes avec effets spéciaux.
 
 **[IMDb credits:](https://www.imdb.com/name/nm2326905/ "IMDb credits, Yves Capelle")**
 
@@ -45,19 +45,19 @@ _<a title="Où Est La Main De L'Homme Sans T^te" href="http://www.ouestlamain.co
   
 ## Séries
   
-  *The Great* **Matthew Moore**, Yekaterina UK Ltd — storyboard, épisode 8, The Great, Saison 3, Hulu, 2022
+*The Great* **Matthew Moore**, Yekaterina UK Ltd — storyboard, épisode 8, The Great, Saison 3, Hulu, 2022
   
-  *The Essex Serpent* **Clio Barnard**, Blackwater Beach Films Ltd – storyboard, six épisodes, mini-série, Apple TV, 2022
+*The Essex Serpent* **Clio Barnard**, Blackwater Beach Films Ltd – storyboard, six épisodes, mini-série, Apple TV, 2022
   
-  _« Les rivières pourpres »_ **Oliver Barma**, Umedia / Europacorp Télévision** ** –_ _storyboard pour _« La croisade des enfants », _épisode 5 & 6 de la série_ &#8211; _séquences_ _VFX, cascades, téléfilm, 2017
+*Les rivières pourpres* **Oliver Barma**, Umedia / Europacorp Télévision** — storyboard pour « La croisade des enfants », épisode 5 & 6 de la série  séquences VFX, cascades, téléfilm, 2017
   
   *OVNI(s)* **Antony Cordier**, Benuts — storyboard pour la Saison 2 épisode 3 — VFX & SFX scène, série, 2021
   
-  _« Les rivières pourpres »_ **Julius Berg**, Umedia / Europacorp Télévision** ** –_ _storyboard pour _« Le Jour des cendres », _épisode 3 & 4 de la série_ &#8211; _séquences_ _VFX, téléfilm, 2017
+*Les rivières pourpres* **Julius Berg**, Umedia / Europacorp Télévision — storyboard pour *« Le Jour des cendres »*, épisode 3 & 4 de la série, séquences VFX, téléfilm, 2017
   
-  _« Facteur Chance »_ **Julien Séri**, TF1 / AT Production &#8211; séquence course-poursuite, TV épisode &#8211; 2009
+*Facteur Chance* **Julien Séri**, TF1 / AT Production — séquence course-poursuite, TV épisode, 2009
   
-  Illustrations, ouverture crédits pour **Nickelodeon** « _Het Huis Anubis »_ 2006
+*Het Huis Anubis* Illustrations — ouverture crédits Nickelodeon, 2006
     
 ## Reconstitutions historiques / Musées et scénographie
 
@@ -79,23 +79,27 @@ Content visualisation, développement narratif et storyboards — 2006
 
 ## Spectacles et évènements
 
-**Abdullah Al-Salem Cultural Center**, Kuwait Spectacle d&rsquo;ouverture — illustrations pour un pitch pour **LSE**** **(Juillet 2017, pitch gagné)
+**Abdullah Al-Salem Cultural Center**, Kuwait Spectacle d'ouverture — illustrations pour un pitch pour **LSE** (Juillet 2017, pitch gagné)
 
-**André Heller**_&lsquo;_s _<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>_ &#8211; München, 2011.  
+**André Heller**'s *<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>* — München, 2011.  
 Illustrations conceptuelles, storyboard du spectacle.
 
-**Franco Dragone** &#8211; _<a href="http://thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>_ &#8211; City of Dreams, Macau. Concept art, développement visuel, graphisme décors et accessoires scéniques &#8211; 2011.
+**Franco Dragone** *<a href="http://thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>* — City of Dreams, Macau. Concept art, développement visuel, graphisme décors et accessoires scéniques — 2011.
 
 ## Clip-vidéo
 
-La Chiva Gantiva, _Vivo_
+**James Blake**, *Say What You Want*, réalisé par **Bear Damen**.
+
+**Eddy De Pretto**, *FREAKS*, réalisé par **Thibault Dumoulin**.
+
+**La Chiva Gantiva**, *Vivo*, réalisé par **Ben Lacour**.
 
 
 ## Animation
 
-**<a title="Ello Mobile" href="http://j.mp/ello-mobile" target="_blank" rel="noopener noreferrer">Ello Mobile</a>** &#8211; Character Design, animations et illustrations web.
+**<a title="Ello Mobile" href="http://j.mp/ello-mobile" target="_blank" rel="noopener noreferrer">Ello Mobile</a>** — Character Design, animations et illustrations web.
 
-**<a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> Levenslijn / VTM** &#8211; **Roughcut** &#8211; design personages, bible graphique pour série animée.
+**<a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> Levenslijn / VTM** — **Roughcut** — design personages, bible graphique pour série animée.
 
 ## Institutionnel
 
@@ -107,9 +111,9 @@ Storyboards & layout pour **European Entreprise Network** (2015) Agence: ESN P
 
 Storyboard pour **DG Justice** Agency: ESN Production: Une Très Grosse Boîte Américaine
 
-**DG Trade** &#8211; Direction artistique et illustrations pour illustrer <a title="EU trade policy in animation" href="http://film-storyboards.fr/animation-ligne-claire/" target="_blank" rel="noopener noreferrer">la politique commerciale de l&rsquo;Union européenne expliquée en animation</a> (2013) Agence: ESN Production, live capture, animation: <a title="Visual effects" href="http://www.benuts.be/" target="_blank" rel="noopener noreferrer">Benuts</a>
+**DG Trade** — Direction artistique et illustration de la <a title="EU trade policy in animation" href="http://film-storyboards.fr/animation-ligne-claire/" target="_blank" rel="noopener noreferrer">politique commerciale de l'Union européenne expliquée en animation</a> Agence: ESN Production, live capture, animation: <a title="Visual effects" href="http://www.benuts.be/" target="_blank" rel="noopener noreferrer">Benuts</a>, 2013.
 
-Storyboards pour une série de vidéos sur des thèmes incluants l&rsquo;espace Schengen, les politiques d&rsquo;asile, le cybercrime, le traffic de personnes, le crime organisé, l&rsquo;émigration, l&rsquo;integration et le terrorisme (2012) Client: **European Commission directorate for Home Affairs** Agence: ESN Production: Mindtaste
+Storyboards pour une série de vidéos sur des thèmes incluants l'espace Schengen, les politiques d'asile, le cybercrime, le traffic de personnes, le crime organisé, l'émigration, l'integration et le terrorisme Client: **European Commission directorate for Home Affairs** Agence: ESN Production: Mindtaste, 2012.
 
 ## Publicité
 
@@ -119,7 +123,7 @@ Storyboards pour une série de vidéos sur des thèmes incluants l&rsquo;espace 
 
 ### Agences & Productions
 
-GANG Films *AUSTRALIE.GAD* Boomshot *Steve Agency* HUMANS *blue paris* Where Is Brian *CAVIAR LA* [Homestead](http://lovehomestead.com) *CARTEL Film* Hobbyfilm Stockholm *ADULT* [Gwantsi](https://www.gwantsi.com/) *BBDO Belgium* Ristretto Films *Big Production SAS* CAVIAR Brussels *Producteur Provocateur* [HUGGGY](http://hugggy.com) *109 Paris* [HAMLET](http://www.hamlet.tv) *[FleishmanHillard](https://fleishmanhillard.eu)* [LUON](https://www.luon.com "LUON") *[WIZZdesign](http://wizz.fr) (Fr)* Prodigious (Fr) *Blinkside* MAD (FR) *The Marmalade (De)* Duval Guillaume Antwerp *Good Egg Production (UK)* NEW ID filmproduktion GmbH (De) *QUAD (Fr)* MAD BOX *A Private View* European Service Network *ChezEddy* [Benuts](https://www.benuts.be "Visual effects") *Shenan Concept Sprl* Ebuco *Latcho Drom* Satellite My Love (France) *[RSA Films (UK)](http://www.rsafilms.com)* Rosas & Co Films AG (Switzerland) *SEPIC Documentary Productions (Japan)* Kunstmaan *Milly Films* Primart (Austria) *Germaine* mucho *VVL/BBDO* Magnifico GmbH & Co. KG (Germany) *Pacha Production* Euro RSCG *Design Board* Strategie *d side event* [BIGFISH Filmproduktion](http://www.bigfish.de/) (Berlin) *The Retail Company* Fetish Film (Ru) *[Lovo Films](http://www.lovo.be/ "Lovo Films Creativity Lovers")* Armand Prod *Binsfeld (Lu)* Y&R Brussels *JWT Brussels* 7ïa Films & TV Productions *[n’Wave Pictures](http://www.nwave.com/)* Concept Technique & Production *activeIDEA* Epidemie (Amsterdam) *[Brandhome](http://www.brandhome.com/ "Brandhome - Identity driven brand building")*  Tellygence *CZAR.BE* DDB Group Belgium *TBWA Paris* The Pub Agency *NextCap (Ro)* Saatchi & Saatchi Vietnam *Leith Agency (UK)* Xenon Productions *MTP Scotland* Walking The Dog *Banana Films* IdProd (Lu) *N1digital / Mark Vanco* Ogilvy & Mather Vietnam *Mc Cann-Erickson VN* Daiko VN *Revolution Films* Lazennec VN *Toast Media Australia* Bates/141 VN *Shooting Gallery & Frameworks Singapore* Calabazitaz Tiernaz
+Kaos Films *Gopa* GANG Films *AUSTRALIE.GAD* Boomshot *Steve Agency* HUMANS *blue paris* Where Is Brian *CAVIAR LA* [Homestead](http://lovehomestead.com) *CARTEL Film* Hobbyfilm Stockholm *ADULT* [Gwantsi](https://www.gwantsi.com/) *BBDO Belgium* Ristretto Films *Big Production SAS* CAVIAR Brussels *Producteur Provocateur* [HUGGGY](http://hugggy.com) *109 Paris* [HAMLET](http://www.hamlet.tv) *[FleishmanHillard](https://fleishmanhillard.eu)* [LUON](https://www.luon.com "LUON") *[WIZZdesign](http://wizz.fr) (Fr)* Prodigious (Fr) *Blinkside* MAD (FR) *The Marmalade (De)* Duval Guillaume Antwerp *Good Egg Production (UK)* NEW ID filmproduktion GmbH (De) *QUAD (Fr)* MAD BOX *A Private View* European Service Network *ChezEddy* [Benuts](https://www.benuts.be "Visual effects") *Shenan Concept Sprl* Ebuco *Latcho Drom* Satellite My Love (France) *[RSA Films (UK)](http://www.rsafilms.com)* Rosas & Co Films AG (Switzerland) *SEPIC Documentary Productions (Japan)* Kunstmaan *Milly Films* Primart (Austria) *Germaine* mucho *VVL/BBDO* Magnifico GmbH & Co. KG (Germany) *Pacha Production* Euro RSCG *Design Board* Strategie *d side event* [BIGFISH Filmproduktion](http://www.bigfish.de/) (Berlin) *The Retail Company* Fetish Film (Ru) *[Lovo Films](http://www.lovo.be/ "Lovo Films Creativity Lovers")* Armand Prod *Binsfeld (Lu)* Y&R Brussels *JWT Brussels* 7ïa Films & TV Productions *[n’Wave Pictures](http://www.nwave.com/)* Concept Technique & Production *activeIDEA* Epidemie (Amsterdam) *[Brandhome](http://www.brandhome.com/ "Brandhome - Identity driven brand building")*  Tellygence *CZAR.BE* DDB Group Belgium *TBWA Paris* The Pub Agency *NextCap (Ro)* Saatchi & Saatchi Vietnam *Leith Agency (UK)* Xenon Productions *MTP Scotland* Walking The Dog *Banana Films* IdProd (Lu) *N1digital / Mark Vanco* Ogilvy & Mather Vietnam *Mc Cann-Erickson VN* Daiko VN *Revolution Films* Lazennec VN *Toast Media Australia* Bates/141 VN *Shooting Gallery & Frameworks Singapore* Calabazitaz Tiernaz
 
 ### Clients
 
