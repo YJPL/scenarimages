@@ -2,30 +2,22 @@
 id: 435
 title: Contact
 permalink: /contact/
-last_modified_at: 2023-01-27
+last_modified_at: 2023-03-14
 author: Yves
 layout: page
 guid: http://film-storyboards.com/?page_id=2
 ---
-<p style="text-align: center;">
-  <em>Yves Capelle</em><br /> alternatyves outc.<br /> <a href="https://film-storyboards.com">Film Storyboards</a><br /> Tel / WhatsApp: +32 (0) 475 418 327<br /> <a href="mailto:yves@film-storyboards.com?subject=Question%20envoyée%20depuis%20scénarimages%20site"> email</a>
-</p>
 
-<p style="text-align: center;">
-  6 rue Lannoy<br /> 1050 Bruxelles<br /> Belgique<br /> <strong>VAT BE 0899.199.007</strong><br /> <strong>Triodos 523-0802830-36</strong>
-</p>
-
-***
-
-_**Scénarimages**_ est un studio unipersonnel axé sur le dessin, le storyboard et le design de production. [visual storytelling](https://film-storyboards.com/portfolio "Film Storyboards and Production Design Portfolio"). Je dessine les storyboards de vos films, publicités, séries et animations.
+_**Scénarimages**_ est un studio unipersonnel axé sur le dessin, le [storyboard et le design de production](https://film-storyboards.fr/portfolio "Film Storyboards, Illustration de Production, storyboard et production design, portfolio"). Je dessine les storyboards de vos films, publicités, séries et animations.
 
 Pre visualisation, concept art, développement de personnages et set design sont aussi au menu.
 
 
 Contact: *Yves Capelle*
+[Film Storyboards](https://film-storyboards.com)
 
-Mobile: +32 475 418 327  
- [email enquiries](mailto:yves@film-storyboards.com?subject=Inquiry%20from%20film%20storyboards%20site)  
+Mobile/WhatsApp: +32 475 418 327  
+ [email enquiries](mailto:yves@film-storyboards.com?subject=Question%20envoyée%20depuis%20scénarimages%20site)  
 Skype: alternatyvesoutc
 
 #### Brussels, Belgium
