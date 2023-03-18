@@ -2,9 +2,9 @@
 layout: default
 title: "Scénarimages, storyboard et dessins de production, portfolio de Yves Capelle"
 ---
-<section class="cf pb5 ph5-ns ph2">
+<section class="cf pb5 ph5-ns ph3">
   <f1 class="f1 lh-title b helvetica">Storyboards, cinéma, animation et séries</f1>
-  <article class="container flex-wrap flex">
+  <article class="flex-ns flex-wrap flex">
 
     {% assign posts = site.posts | where_exp: "post", "post.categories contains 'portfolio'" %}
     {% for post in posts %}
