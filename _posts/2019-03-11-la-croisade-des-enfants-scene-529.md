@@ -2,6 +2,7 @@
 id: 2807
 title: La Croisade des Enfants scene 529
 date: 2019-03-11T19:36:34+01:00
+last_modified_at: 2023-04-03 12:48:48 +0100
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -13,6 +14,7 @@ categories:
   - portfolio
   - série
   - storyboard
+  - portfolio
 tags:
   - croquis
   - TV
