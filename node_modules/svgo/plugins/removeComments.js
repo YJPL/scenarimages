@@ -3,8 +3,6 @@
 const { detachNodeFromParent } = require('../lib/xast.js');
 
 exports.name = 'removeComments';
-exports.type = 'visitor';
-exports.active = true;
 exports.description = 'removes comments';
 
 /**
@@ -16,7 +14,7 @@ exports.description = 'removes comments';
  *
  * @author Kir Belevich
  *
- * @type {import('../lib/types').Plugin<void>}
+ * @type {import('./plugins-types').Plugin<'removeComments'>}
  */
 exports.fn = () => {
   return {

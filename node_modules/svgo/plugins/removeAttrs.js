@@ -1,8 +1,6 @@
 'use strict';
 
 exports.name = 'removeAttrs';
-exports.type = 'visitor';
-exports.active = false;
 exports.description = 'removes specified attributes';
 
 const DEFAULT_SEPARATOR = ':';
@@ -83,11 +81,7 @@ plugins: [
  *
  * @author Benny Schudel
  *
- * @type {import('../lib/types').Plugin<{
- *   elemSeparator?: string,
- *   preserveCurrentColor?: boolean,
- *   attrs: string | Array<string>
- * }>}
+ * @type {import('./plugins-types').Plugin<'removeAttrs'>}
  */
 exports.fn = (root, params) => {
   if (typeof params.attrs == 'undefined') {

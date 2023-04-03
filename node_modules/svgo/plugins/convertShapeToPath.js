@@ -8,8 +8,6 @@ const { stringifyPathData } = require('../lib/path.js');
 const { detachNodeFromParent } = require('../lib/xast.js');
 
 exports.name = 'convertShapeToPath';
-exports.type = 'visitor';
-exports.active = true;
 exports.description = 'converts basic shapes to more compact path form';
 
 const regNumber = /[-+]?(?:\d*\.\d+|\d+\.?)(?:[eE][-+]?\d+)?/g;
@@ -23,10 +21,7 @@ const regNumber = /[-+]?(?:\d*\.\d+|\d+\.?)(?:[eE][-+]?\d+)?/g;
  *
  * @author Lev Solntsev
  *
- * @type {import('../lib/types').Plugin<{
- *   convertArcs?: boolean,
- *   floatPrecision?: number
- * }>}
+ * @type {import('./plugins-types').Plugin<'convertShapeToPath'>}
  */
 exports.fn = (root, params) => {
   const { convertArcs = false, floatPrecision: precision } = params;

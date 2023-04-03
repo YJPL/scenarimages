@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.14",
-    "cssnano": "^5.1.15",
+    "cssnano": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^9.0.1",
@@ -46,12 +46,12 @@
     "build:watch": "watch \"npm run build\" ./src/"
   },
   "dependencies": {
-    "browser-sync": "^2.28.3",
+    "browser-sync": "^2.29.1",
     "del": "^7.0.0",
-    "glob": "^8.0.3",
+    "glob": "^9.3.4",
     "gulp-basswork": "^0.2.0",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^2.0.0",
-    "sharp": "^0.31.3"
+    "sharp": "^0.32.0"
   }
 }

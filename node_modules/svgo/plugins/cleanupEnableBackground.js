@@ -2,9 +2,7 @@
 
 const { visit } = require('../lib/xast.js');
 
-exports.type = 'visitor';
 exports.name = 'cleanupEnableBackground';
-exports.active = true;
 exports.description =
   'remove or cleanup enable-background attribute when possible';
 
@@ -20,7 +18,7 @@ exports.description =
  *
  * @author Kir Belevich
  *
- * @type {import('../lib/types').Plugin<void>}
+ * @type {import('./plugins-types').Plugin<'cleanupEnableBackground'>}
  */
 exports.fn = (root) => {
   const regEnableBackground =

@@ -3,8 +3,6 @@
 const { detachNodeFromParent } = require('../lib/xast.js');
 
 exports.name = 'removeTitle';
-exports.type = 'visitor';
-exports.active = true;
 exports.description = 'removes <title>';
 
 /**
@@ -14,7 +12,7 @@ exports.description = 'removes <title>';
  *
  * @author Igor Kalashnikov
  *
- * @type {import('../lib/types').Plugin<void>}
+ * @type {import('./plugins-types').Plugin<'removeTitle'>}
  */
 exports.fn = () => {
   return {

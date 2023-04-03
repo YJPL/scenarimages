@@ -3,8 +3,6 @@
 const { querySelectorAll } = require('../lib/xast.js');
 
 exports.name = 'removeAttributesBySelector';
-exports.type = 'visitor';
-exports.active = false;
 exports.description =
   'removes attributes of elements that match a css selector';
 
@@ -75,7 +73,7 @@ exports.description =
  *
  * @author Bradley Mease
  *
- * @type {import('../lib/types').Plugin<any>}
+ * @type {import('./plugins-types').Plugin<'removeAttributesBySelector'>}
  */
 exports.fn = (root, params) => {
   const selectors = Array.isArray(params.selectors)

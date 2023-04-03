@@ -3,14 +3,7 @@
 const csstree = require('css-tree');
 const { referencesProps } = require('./_collections.js');
 
-/**
- * @typedef {import('../lib/types').XastElement} XastElement
- * @typedef {import('../lib/types').PluginInfo} PluginInfo
- */
-
-exports.type = 'visitor';
 exports.name = 'prefixIds';
-exports.active = false;
 exports.description = 'prefix IDs';
 
 /**
@@ -69,17 +62,15 @@ const prefixReference = (prefix, value) => {
   return null;
 };
 
+/** @type {(value: any) => any} */
+const toAny = (value) => value;
+
 /**
  * Prefixes identifiers
  *
  * @author strarsis <strarsis@gmail.com>
  *
- * @type {import('../lib/types').Plugin<{
- *   prefix?: boolean | string | ((node: XastElement, info: PluginInfo) => string),
- *   delim?: string,
- *   prefixIds?: boolean,
- *   prefixClassNames?: boolean,
- * }>}
+ * @type {import('./plugins-types').Plugin<'prefixIds'>}
  */
 exports.fn = (_root, params, info) => {
   const { delim = '__', prefixIds = true, prefixClassNames = true } = params;
@@ -140,17 +131,14 @@ exports.fn = (_root, params, info) => {
               return;
             }
             // url(...) references
-            if (
-              node.type === 'Url' &&
-              node.value.value &&
-              node.value.value.length > 0
-            ) {
+            // csstree v2 changed this type
+            if (node.type === 'Url' && toAny(node.value).length > 0) {
               const prefixed = prefixReference(
                 prefix,
-                unquote(node.value.value)
+                unquote(toAny(node.value))
               );
               if (prefixed != null) {
-                node.value.value = prefixed;
+                toAny(node).value = prefixed;
               }
             }
           });

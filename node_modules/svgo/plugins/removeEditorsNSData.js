@@ -3,9 +3,7 @@
 const { detachNodeFromParent } = require('../lib/xast.js');
 const { editorNamespaces } = require('./_collections.js');
 
-exports.type = 'visitor';
 exports.name = 'removeEditorsNSData';
-exports.active = true;
 exports.description = 'removes editors namespaces, elements and attributes';
 
 /**
@@ -18,9 +16,7 @@ exports.description = 'removes editors namespaces, elements and attributes';
  *
  * @author Kir Belevich
  *
- * @type {import('../lib/types').Plugin<{
- *   additionalNamespaces?: Array<string>
- * }>}
+ * @type {import('./plugins-types').Plugin<'removeEditorsNSData'>}
  */
 exports.fn = (_root, params) => {
   let namespaces = editorNamespaces;

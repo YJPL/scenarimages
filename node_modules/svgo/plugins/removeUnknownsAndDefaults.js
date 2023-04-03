@@ -10,9 +10,7 @@ const {
   presentationNonInheritableGroupAttrs,
 } = require('./_collections');
 
-exports.type = 'visitor';
 exports.name = 'removeUnknownsAndDefaults';
-exports.active = true;
 exports.description =
   'removes unknown elements content and attributes, removes attrs with default values';
 
@@ -94,15 +92,7 @@ for (const [name, config] of Object.entries(elems)) {
  *
  * @author Kir Belevich
  *
- * @type {import('../lib/types').Plugin<{
- *   unknownContent?: boolean,
- *   unknownAttrs?: boolean,
- *   defaultAttrs?: boolean,
- *   uselessOverrides?: boolean,
- *   keepDataAttrs?: boolean,
- *   keepAriaAttrs?: boolean,
- *   keepRoleAttr?: boolean,
- * }>}
+ * @type {import('./plugins-types').Plugin<'removeUnknownsAndDefaults'>}
  */
 exports.fn = (root, params) => {
   const {

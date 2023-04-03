@@ -3,8 +3,6 @@
 const { detachNodeFromParent } = require('../lib/xast.js');
 
 exports.name = 'removeDesc';
-exports.type = 'visitor';
-exports.active = true;
 exports.description = 'removes <desc>';
 
 const standardDescs = /^(Created with|Created using)/;
@@ -18,7 +16,7 @@ const standardDescs = /^(Created with|Created using)/;
  *
  * @author Daniel Wabyick
  *
- * @type {import('../lib/types').Plugin<{ removeAny?: boolean }>}
+ * @type {import('./plugins-types').Plugin<'removeDesc'>}
  */
 exports.fn = (root, params) => {
   const { removeAny = true } = params;
