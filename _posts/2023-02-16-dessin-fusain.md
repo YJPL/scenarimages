@@ -1,6 +1,7 @@
 ---
 title: Dessins au fusain, 2022-2023
 date: 2023-02-16T12:24:48+02:00
+last_modified_at: 2023-04-12
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -56,11 +57,18 @@ format: gallery
  full_width="1200" full_height="850"
 %}
 
-
 {% include gallery.html
  url="/images/dessins/IMG_2490.jpg"
  thumb_width="960" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
  full_width="1200" full_height="1600"
 %}
+
+{% include gallery.html
+ url="/images/dessins/IMG_2592.jpg"
+ thumb_width="960" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
+ full_width="1920" full_height="1395"
+%}
+
+
 
 </div>
