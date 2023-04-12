@@ -13,6 +13,7 @@ categories:
   - illustration
   - non fiction
   - storyboard
+  - portfolio
 format: gallery
 ---
 
