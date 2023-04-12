@@ -2,12 +2,13 @@
 id: 2825
 title: Jean Claude
 date: 2019-04-20T15:44:46+02:00
+last_modified_at: 2023-04-12
 author: Yves
 layout: portfolio
 photoswipe: true
 guid: /?p=2825
 permalink: /jean-claude/
-image: /images/uploads/2019/03/Jean-Claude-rough-board-00013.jpg
+image: /images/uploads/2019/03/Jean-Claude-slideshow.gif
 categories:
   - portfolio
   - storyboard
