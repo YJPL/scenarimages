@@ -1,7 +1,7 @@
 ---
-title: Măgar & Gâscă 🫏🐣⚡️🎬
+title: Măgar & Gâscă 🥫⚡️🎬
 date: 2023-04-12 12:24:48 +0100
-last_modified_at: 
+last_modified_at: 2023-04-14
 author: Yves
 excerpt: |
   <a href="/animatique-magar-gasca/"><img src="/images/uploads/2022/Magar_1st_loop.gif"  /></a>

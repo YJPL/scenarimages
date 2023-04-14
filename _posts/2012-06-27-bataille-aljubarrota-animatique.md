@@ -1,7 +1,8 @@
 ---
 id: 1592
-title: 'Animatique &#8211; Bataille d&rsquo;Aljubarrota'
+title: Animatique — Bataille d'Aljubarrota
 date: 2012-06-27T11:02:09+02:00
+last_modified_at: 2023-04-14
 author: Yves
 excerpt: |
   <a title="Vangard cavalry Aljubarrota" href="/animatique/" rel=""><title ="Charge des chevaliers français à Aljubarrota" src="/images/uploads/2014/03/charge-chevaliers-aljubarrota-bataille.jpg" alt="Illustration — Charge des chevaliers français à Aljubarrota"></title></a>
