@@ -51,7 +51,7 @@ _[The Hot Potato](http://film-storyboards.com/the-hot-potato/ "The Hot Potato")�
   
 *The Essex Serpent* **Clio Barnard**, Blackwater Beach Films Ltd – storyboard, six épisodes, mini-série, Apple TV, 2022
   
-*Les rivières pourpres* **Oliver Barma**, Umedia / Europacorp Télévision** — storyboard pour « La croisade des enfants », épisode 5 & 6 de la série  séquences VFX, cascades, téléfilm, 2017
+*Les rivières pourpres* **Oliver Barma**, Umedia / Europacorp Télévision — storyboard pour « La croisade des enfants », épisode 5 & 6 de la série  séquences VFX, cascades, téléfilm, 2017
   
   *OVNI(s)* **Antony Cordier**, Benuts — storyboard pour la Saison 2 épisode 3 — VFX & SFX scène, série, 2021
   
@@ -69,11 +69,11 @@ _<a title="Atoleiros 1384" href="http://j.mp/Atoleiros-1384/" target="_blank" re
 Développement narratif, storyboards &#8211; illustrations pour un <a title="Zootrope" href="http://j.mp/Praxinoscope" target="_blank" rel="noopener noreferrer">Praxinoscope</a>.
 
 **<a title="Fundação Batalha de Aljubarrota" href="http://fundacao-aljubarrota.pt/?idc=224" target="_blank" rel="noopener noreferrer">Centro de Interpretação da 1ª POSIÇÃO PORTUGUESA EM ALJUBARROTA</a>**  
-History of the Batalha monastery, Portugal. <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> / <a title="Mavercik ICS" href="http://www.maverick-ics.be/" target="_blank" rel="noopener noreferrer">Maverick ICS</a> &#8211; 2008
+History of the Batalha monastery, Portugal. <a title="Grid VFX" href="http://www.grid-vfx.com/" target="_blank" rel="noopener noreferrer">Grid VFX</a> / <a title="Mavercik ICS" href="http://www.maverick-ics.be/" target="_blank" rel="noopener noreferrer">Maverick ICS</a>, 2008
 
 **Centre d&rsquo;interpretation de la bataille d&rsquo;Aljubarrota** (CIBA) &#8211; installations cross-media &#8211; **<a title="Fundação Batalha de Aljubarrota" href="http://www.fundacao-aljubarrota.pt/" target="_blank" rel="noopener noreferrer">Fundação Batalha de Aljubarrota</a>**, Portugal.  
-Reconstitution dune bataille médiévale, illustrations séquentielles (animatic) pour un audio-guide et des écrans interactifs &#8211; 2008  
-Content visualisation, développement narratif et storyboards — 2006
+Reconstitution dune bataille médiévale, illustrations séquentielles (animatic) pour un audio-guide et des écrans interactifs, 2008  
+Content visualisation, développement narratif et storyboards, 2006
 
 ## Parc à thèmes
 
@@ -86,7 +86,7 @@ Content visualisation, développement narratif et storyboards — 2006
 **André Heller**'s *<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>* — München, 2011.  
 Illustrations conceptuelles, storyboard du spectacle.
 
-**Franco Dragone** *<a href="http://thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>* — City of Dreams, Macau. Concept art, développement visuel, graphisme décors et accessoires scéniques — 2011.
+**Franco Dragone** *<a href="http://thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>* — City of Dreams, Macau. Concept art, développement visuel, graphisme décors et accessoires scéniques, 2011.
 
 ## Clip-vidéo
 
