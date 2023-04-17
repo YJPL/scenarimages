@@ -81,10 +81,9 @@ Content visualisation, développement narratif et storyboards, 2006
 
 ## Spectacles et évènements
 
-**Abdullah Al-Salem Cultural Center**, Kuwait Spectacle d'ouverture — illustrations pour un pitch pour **LSE** (Juillet 2017, pitch gagné)
+**Abdullah Al-Salem Cultural Center** — Kuwait Spectacle d'ouverture — illustrations pour un pitch pour **LSE** (Juillet 2017, pitch gagné)
 
-**André Heller**'s *<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>* — München, 2011.  
-Illustrations conceptuelles, storyboard du spectacle.
+**André Heller**'s *<a href="http://www.youtube.com/watch?gl=BE&v=j0Ljn8W_wbc" target="_blank" rel="noopener noreferrer">Magnifico Show</a>* — München, Illustrations conceptuelles, storyboard du spectacle, 2011.
 
 **Franco Dragone** *<a href="http://thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>* — City of Dreams, Macau. Concept art, développement visuel, graphisme décors et accessoires scéniques, 2011.
 
