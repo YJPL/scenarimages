@@ -2,7 +2,7 @@
 id: 816
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-04-06
+last_modified_at: 2023-04-17
 author: Yves
 layout: page
 permalink: /credits/
@@ -11,9 +11,10 @@ guid: http://film-storyboards.fr/?page_id=816
 
 ## Longs métrages
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard
+
 *The Pod Generation* **Sophie Barthes** — Production Services Belgium — 2022. Storyboards VFX & SFX. 
 
-*Baghdad Messi* **Sahim Omar Kalifa** — — A Team Productions — 2021. Storyboard, scène de la voiture piégée.
+*Baghdad Messi* **Sahim Omar Kalifa** — A Team Productions — 2021. Storyboard, scène de la voiture piégée.
 
 *Zeevonk* **Domien Huyghe** — A Private View — 2021 (in preparation). Storyboard for VFX & SFX sequences. 
 
@@ -100,7 +101,7 @@ Illustrations conceptuelles, storyboard du spectacle.
 
 **<a title="Ello Mobile" href="http://j.mp/ello-mobile" target="_blank" rel="noopener noreferrer">Ello Mobile</a>** — Character Design, animations et illustrations web.
 
-**<a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> Levenslijn / VTM** — **Roughcut** — design personages, bible graphique pour série animée.
+**<a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> Levenslijn / VTM** — **Roughcut** — bible graphique pour série animée.
 
 ## Institutionnel
 
