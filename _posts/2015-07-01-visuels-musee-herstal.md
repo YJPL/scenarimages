@@ -2,6 +2,7 @@
 id: 2616
 title: Musée Communal d'Herstal — Visuels
 date: 2015-07-01T20:17:50+02:00
+last_modified_at: 2023-04-27
 author: Yves
 layout: post
 photoswipe: true
@@ -13,7 +14,6 @@ categories:
   - illustration
   - non fiction
   - storyboard
-  - portfolio
 format: gallery
 ---
 
