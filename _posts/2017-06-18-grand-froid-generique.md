@@ -2,6 +2,7 @@
 id: 2535
 title: 'Grand Froid — storyboard générique'
 date: 2017-06-18T11:58:24+02:00
+last_modified_at: 2023-04-28
 author: Yves
 layout: post-centered
 photoswipe: true
@@ -15,6 +16,7 @@ categories:
   - long métrage
 tags:
   - dessin traditionnel
+  - chien
 format: gallery
 ---
 
