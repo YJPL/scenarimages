@@ -2,7 +2,7 @@
 id: 816
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-04-17
+last_modified_at: 2023-04-28
 author: Yves
 layout: page
 permalink: /credits/
@@ -103,6 +103,7 @@ Content visualisation, développement narratif et storyboards, 2006
 **<a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> Levenslijn / VTM** — **Roughcut** — bible graphique pour série animée.
 
 ## Institutionnel
+**DG Santé** Storyboards pour campagne de prévention, **Kaos Films** & **Gopa Com**, 2022-2023
 
 **MedTech Europe** storyboards pour 4 videos, **FleishmanHillard**, Nov 2018
 
@@ -120,7 +121,7 @@ Storyboards pour une série de vidéos sur des thèmes incluants l'espace Scheng
 
 ### Réalisateurs
 
-*[Norman Bates](http://normanbates.tv/)* [André Maat](https://andremaat.com/) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) [_AKAMA_](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/) [Nicolas Galoux](http://hugggy.com) <a title="BUGSY RIVERBANK STEEL" href="http://www.bugsyriverbanksteel.com" target="_blank" rel="noopener noreferrer"><em>Bugsy</em></a> [Manu Coeman](http://www.manucoeman.com) *Helvetica* Michal Lockshin *[Marc R. Wilkins](http://marcwilkins.com/)* [David Lodge](http://davidlodge.tv/) *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](http://www.dannywillems.com/) *Margot Roolant* Bruno Roche *[Alain Berliner](http://www.alainberliner.com/)* <a title="Ben Lacour Director" href="http://benlacour.com" target="_blank" rel="noopener noreferrer">Ben Lacour</a> et beaucoup d'autres.
+*[Tucker Bliss](https://www.tuckerbliss.com)* [Jeroen Mol](https://www.jeroenmol.tv/) *Floris Kingma* Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv/)* [André Maat](https://andremaat.com/) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) [_AKAMA_](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/) [Nicolas Galoux](http://hugggy.com) <a title="BUGSY RIVERBANK STEEL" href="http://www.bugsyriverbanksteel.com" target="_blank" rel="noopener noreferrer"><em>Bugsy</em></a> [Manu Coeman](http://www.manucoeman.com) *Helvetica* Michal Lockshin *[Marc R. Wilkins](http://marcwilkins.com/)* [David Lodge](http://davidlodge.tv/) *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](http://www.dannywillems.com/) *Margot Roolant* Bruno Roche *[Alain Berliner](http://www.alainberliner.com/)* <a title="Ben Lacour Director" href="http://benlacour.com" target="_blank" rel="noopener noreferrer">Ben Lacour</a> et beaucoup d'autres.
 
 ### Agences & Productions
 
