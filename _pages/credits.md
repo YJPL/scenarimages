@@ -2,7 +2,7 @@
 id: 816
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-04-28
+last_modified_at: 2023-04-30
 author: Yves
 layout: page
 permalink: /credits/
@@ -50,10 +50,10 @@ _[The Hot Potato](http://film-storyboards.com/the-hot-potato/ "The Hot Potato")�
 *The Great* **Matthew Moore**, Yekaterina UK Ltd — storyboard, épisode 8, The Great, Saison 3, Hulu, 2022
   
 *The Essex Serpent* **Clio Barnard**, Blackwater Beach Films Ltd – storyboard, six épisodes, mini-série, Apple TV, 2022
-  
+
+*OVNI(s)* **Antony Cordier**, Benuts — storyboard pour la Saison 2 épisode 3 — VFX & SFX scène, série, 2021
+    
 *Les rivières pourpres* **Oliver Barma**, Umedia / Europacorp Télévision — storyboard pour « La croisade des enfants », épisode 5 & 6 de la série  séquences VFX, cascades, téléfilm, 2017
-  
-  *OVNI(s)* **Antony Cordier**, Benuts — storyboard pour la Saison 2 épisode 3 — VFX & SFX scène, série, 2021
   
 *Les rivières pourpres* **Julius Berg**, Umedia / Europacorp Télévision — storyboard pour *« Le Jour des cendres »*, épisode 3 & 4 de la série, séquences VFX, téléfilm, 2017
   
