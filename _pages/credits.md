@@ -1,12 +1,10 @@
 ---
-id: 816
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-05-12
+last_modified_at: 2023-06-01
 author: Yves
 layout: page
 permalink: /credits/
-guid: http://film-storyboards.fr/?page_id=816
 ---
 
 ## Longs métrages
