@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-06-20
+last_modified_at: 2023-07-07
 author: Yves
 layout: page
 permalink: /credits/
@@ -100,8 +100,9 @@ Content visualisation, développement narratif et storyboards, 2006
 **<a title="Zeppe en Zikki / VTM" href="http://j.mp/Zeppe-Zikki" target="_blank" rel="noopener noreferrer">Zeppe & Zikki</a> Levenslijn / VTM** — **Roughcut** — bible graphique pour série animée.
 
 ## Institutionnel
+**European Food Safety Authority** Storyboards, vidéo corporate, Juin 2023
 
-**DG Home** Storyboards pour campagne de sécurité, **Gopa Com**, June 2023
+**DG Home** Storyboards pour campagne de sécurité, **Gopa Com**, Juin 2023
 
 **DG Santé** Storyboards pour campagne de prévention, **Kaos Films** & **Gopa Com**, 2022-2023
 
