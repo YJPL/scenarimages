@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2023-07-14
+last_modified_at: 2023-07-17
 author: Yves
 layout: page
 permalink: /credits/
@@ -77,6 +77,8 @@ Content visualisation, développement narratif et storyboards, 2006
 **Franco Dragone** — *Rixos World*, Antalya, Turquie, visuels — 2016.
 
 ## Spectacles et évènements
+
+**Dragone** Cultural creation company — Concept visuels, **Riyadh Season** festival, Arabie Saoudite (Mars 2023)
 
 **Abdullah Al-Salem Cultural Center** — Kuwait Spectacle d'ouverture — illustrations pour un pitch pour **LSE** (Juillet 2017, pitch gagné)
 
