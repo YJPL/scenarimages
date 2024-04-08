@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2024-04-07
+last_modified_at: 2024-04-08
 author: Yves
 layout: page
 permalink: /credits/
@@ -115,7 +115,7 @@ Content visualisation, développement narratif et storyboards, 2006
 
 **EURIMA** White Paper Session, Berlin, Brainstorming, juin 2018.
 
-Storyboards & layout pour **European Entreprise Network** (2015) Agence: ESN Production: Blinkside
+Storyboards & layout pour **European Enterprise Network** (2015) Agence: ESN Production: Blinkside
 
 Storyboard pour **DG Justice** Agency: ESN Production: Une Très Grosse Boîte Américaine
 
