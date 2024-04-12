@@ -6,7 +6,7 @@ author: Yves
 layout: portfolio
 photoswipe: true
 permalink: /dessins-fusain-2022-2023/
-image: /images/dessins/IMG_0895_nst.jpg
+image: /images/dessins/IMG_1532.jpg
 categories:
   - dessin
 tags:
@@ -19,6 +19,12 @@ format: gallery
  url="/images/dessins/IMG_0895_nst.jpg"
  thumb_width="960" alt="Dessin au fusain, Modèle assise"
  full_width="1200" full_height="1800"
+%}
+
+{% include gallery.html
+ url="/images/dessins/IMG_1532.jpg"
+ thumb_width="960" alt="Dessin au fusain, Modèle assise"
+ full_width="1200" full_height="1574"
 %}
 
 {% include gallery.html
@@ -68,7 +74,5 @@ format: gallery
  thumb_width="960" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
  full_width="1920" full_height="1395"
 %}
-
-
 
 </div>
