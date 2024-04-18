@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2024-04-08
+last_modified_at: 2024-04-18
 author: Yves
 layout: page
 permalink: /credits/
@@ -127,7 +127,7 @@ Storyboards pour une série de vidéos sur des thèmes incluants l'espace Scheng
 
 ### Réalisateurs
 
-NOBRAIN *Fanny & Zoel* [Pierre Dixsaut](http://pierredixsaut.com) *[Tucker Bliss](https://www.tuckerbliss.com)* [Jeroen Mol](https://www.jeroenmol.tv/) *Floris Kingma* Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv)* [André Maat](https://andremaat.com) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) *[AKAMA](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/)* [Nicolas Galoux](http://www.galmarfilms.com) *[BUGSY RIVERBANK STEEL](https://www.bugsyriverbanksteel.com)* [Manu Coeman](http://www.manucoeman.com) *Helvetica* Michal Lockshin *[Marc R. Wilkins](http://marcwilkins.com/)* David Lodge *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](https://www.dannywillems.com/) *Margot Roolant* Bruno Roche *Alain Berliner* Ben Lacour, et beaucoup d'autres.
+*NOBRAIN* Julien & Quentin *Fanny & Zoel* [Pierre Dixsaut](http://pierredixsaut.com) *[Tucker Bliss](https://www.tuckerbliss.com)* [Jeroen Mol](https://www.jeroenmol.tv/) *Floris Kingma* Vesa Manninen *Ugo Mangin* Arno Salters *Ehsan* [Lieven Van Baelen](https://czar.be/director/lieven-van-baelen/) *[Niels Thomsen](https://www.niels-thomsen.com)* Thibault Dumoulin *[Lance Doty](http://lancedoty.com/)* [Bram Coppens](https://www.coppens.studio) *[Wolfberg](https://wolfberg.co)* [Heleen Declercq](https://heleendeclercq.com) *[Beatrice Pegard](https://www.beatricepegardferry.com)* [Arnaud Uyttenhove](https://vimeo.com/user2408635) *[Norman Bates](http://normanbates.tv)* [André Maat](https://andremaat.com) *[Max Pauwels](http://www.maxpauwels.com/)* [Fred De Loof](http://freddeloof.com) *[AKAMA](https://vimeopro.com/2425prod/portfolio-alexandre-ada-nki/)* [Nicolas Galoux](http://www.galmarfilms.com) *[BUGSY RIVERBANK STEEL](https://www.bugsyriverbanksteel.com)* [Manu Coeman](http://www.manucoeman.com) *Helvetica* Michal Lockshin *[Marc R. Wilkins](http://marcwilkins.com/)* David Lodge *[Anne Marie Vandeputte](http://www.raw.be/)* [Danny Willems](https://www.dannywillems.com/) *Margot Roolant* Bruno Roche *Alain Berliner* Ben Lacour, et beaucoup d'autres.
 
 ### Agences & Productions
 
