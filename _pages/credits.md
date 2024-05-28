@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2024-04-18
+last_modified_at: 2024-05-27
 author: Yves
 layout: page
 permalink: /credits/
@@ -90,6 +90,8 @@ Content visualisation, développement narratif et storyboards, 2006
 **Franco Dragone** *<a href="http://thehouseofdancingwater.com/" target="_blank" rel="noopener noreferrer">The House of Dancing Water</a>* — City of Dreams, Macau. Concept art, développement visuel, graphisme décors et accessoires scéniques, 2011.
 
 ## Clip-vidéo
+
+**Indochine**, *Le Chant du Cygne*, réalisé par **Laura Marciano**.
 
 **James Blake**, *Say What You Want*, réalisé par **Bear Damen**.
 
