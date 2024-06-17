@@ -14,3 +14,5 @@ node_modules
 npm-debug.log*
 .nova
 images/.DS_Store
+images/dessins/.DS_Store
+images/.DS_Store
