@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2024-05-27
+last_modified_at: 2024-07-03
 author: Yves
 layout: page
 permalink: /credits/
@@ -91,7 +91,7 @@ Content visualisation, développement narratif et storyboards, 2006
 
 ## Clip-vidéo
 
-**Indochine**, *Le Chant du Cygne*, réalisé par **Laura Marciano**.
+**Indochine**, *Le Chant des Cygnes*, réalisé par **Laura Marciano**.
 
 **James Blake**, *Say What You Want*, réalisé par **Bear Damen**.
 
