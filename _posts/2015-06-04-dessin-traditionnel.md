@@ -14,7 +14,6 @@ permalink: /dessin-traditionnel/
 image: /images/uploads/2015/06/Cheesy-Crust-Fun_storyboard_01B.jpg
 categories:
   - pitch
-  - portfolio
   - publicité
 tags:
   - pizzas
