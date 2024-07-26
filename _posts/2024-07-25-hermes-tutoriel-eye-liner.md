@@ -1,7 +1,7 @@
 ---
 title: Tutoriel Eye Liner
 date: 2024-07-25T12:24:48+02:00
-last_modified_at: 
+last_modified_at: 2024-07-26
 author: Yves
 excerpt: |
   <a title="Storyboard Tutoriel Eye Liner pour Hermès Beauté" href="/hermes-tutorial-eye-liner/" rel=""><title ="Storyboard Tutoriel Eye Liner pour Hermès Beauté" src="/images/uploads/2024/hermes_beaute/Hermes_Beaute_Tutoriel_Eye_Liner_thmbnl.png" alt="Storyboard Tutoriel Eye Liner pour Hermès Beauté"></title></a>
@@ -10,9 +10,8 @@ excerpt: |
 layout: portfolio
 photoswipe: false
 permalink: /hermes-tutorial-eye-liner/
-image: /images/uploads/2024/hermes_beaute/Hermes_Beaute_Tutoriel_Eye_Liner_thmbnl.png
+image: /images/uploads/2024/hermes_beaute/Hermes_Beaute_Tutoriel_Eye_Liner_CU_thmbnl.png
 categories:
-  - dessin
   - portfolio
   - publicité
   - storyboard
