@@ -1,7 +1,7 @@
 ---
 title: HomeExchange
 date: 2023-01-30T12:30:52+02:00
-last_modified_at: 2023-04-28
+last_modified_at: 2024-07-27
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -84,4 +84,4 @@ Agency: Steve
 Client: HomeExchange
 
 
-Le layout de ce storyboard au format IDML (Adobe InDesign) est en vente ici: [https://gum.co/scope-treatment](https://gum.co/scope-treatment).{% include gumroad-link.html id="scope-treatment" %}
+Le layout de ce storyboard au format Apple Keynote (.KTH) est en vente ici: [https://gum.co/scope-treatment](https://gum.co/scope-treatment).{% include gumroad-link.html id="scope-treatment" %}
