@@ -8,7 +8,7 @@ category_tag_list : true # Show post categories & tags
 # UI Default Text
 text:
     # Post Settings
-    updated           : Updated
+    updated           : Mis à jour
     words_per_minute  : 200
     less_than         : Moins de
     minute_read       : min de lecture
