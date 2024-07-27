@@ -10,7 +10,7 @@ guid: http://film-storyboards.fr/?page_id=2360
 
 <section class="cf ph3 ph5-ns pv5">
   <article class="mw9-l f4-ns sans-serif">
-	<h1 class="f2 lh-title fw7 mb3 mt0 pt3 bt bw2 avenir">{{ site.data.theme.text.latest_articles | default: "Recent Posts" }}</h1>
+	<h1 class="f2 lh-title fw7 mb3 mt0 pt3 bt bw2 avenir">{{ site.data.theme.text.latest_articles | default: "Articles récents" }}</h1>
 
 	{% for post in site.posts limit: site.data.theme.text.post_limit %}
 	<a class="link black-80 hover-blue" href="{{ post.url | relative_url }}">
@@ -31,7 +31,7 @@ guid: http://film-storyboards.fr/?page_id=2360
 	{% endfor %}
 
 	<div class="inline-flex">
-	  <a class="f5 f4-ns fw3 link black-80 hover-silver ba bw1 mv4 pv2 ph3" href="{{ site.data.theme.text.full_archive_url | relative_url }}">{{ site.data.theme.text.full_archive | default: "All Posts" }}</a>
+	  <a class="f5 f4-ns fw3 link black-80 hover-silver ba bw1 mv4 pv2 ph3" href="{{ site.data.theme.text.full_archive_url | relative_url }}">{{ site.data.theme.text.full_archive | default: "Tous les articles" }}</a>
 	</div>
 
   </article>
