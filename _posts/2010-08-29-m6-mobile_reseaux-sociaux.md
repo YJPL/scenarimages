@@ -1,7 +1,8 @@
 ---
 id: 404
-title: 'Storyboard &#8211; M6 Mobile Réseaux Sociaux'
+title: 'Storyboard — M6 Mobile Réseaux Sociaux'
 date: 2010-08-29T05:39:19+02:00
+last_modified_at: 2024-08-01
 author: Yves
 excerpt: |
   Storyboard "Réseaux Sociaux"
