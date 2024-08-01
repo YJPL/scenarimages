@@ -11,7 +11,6 @@ image: /images/uploads/2019/05/Balle-en-Cloche_Storyboard_VS3_16.png
 categories:
   - publicité
   - storyboard
-  - portfolio
 tags:
   - Roland-Garros
   - digital
