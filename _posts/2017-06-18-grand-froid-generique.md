@@ -2,7 +2,7 @@
 id: 2535
 title: 'Grand Froid — storyboard générique'
 date: 2017-06-18T11:58:24+02:00
-last_modified_at: 2023-04-28
+last_modified_at: 2024-08-08
 author: Yves
 layout: post-centered
 photoswipe: true
@@ -10,7 +10,6 @@ guid: http://film-storyboards.fr/?p=2535
 permalink: /grand-froid-generique/
 image: /images/uploads/2017/05/GRAND-FROID_Title-frame_film-storyboards.jpg
 categories:
-  - portfolio
   - storyboard
   - fiction
   - long métrage
