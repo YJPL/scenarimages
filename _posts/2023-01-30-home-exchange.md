@@ -1,7 +1,7 @@
 ---
 title: HomeExchange
 date: 2023-01-30T12:30:52+02:00
-last_modified_at: 2024-07-27
+last_modified_at: 2024-08-24
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -74,14 +74,17 @@ format: gallery
 %}
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cCVxIbU8btk?si=U1kLvJt1buXucmm5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-HomeExchange / Opération Lambert, storyboard
+<br>
 
-Réalisateur: [Nico Galoux](https://www.hugggy.com/)
+HomeExchange / *Opération Lambert*, storyboard
 
-Agency: Steve
+Réalisateur: **[Nico Galoux](https://www.hugggy.com/)**
 
-Client: HomeExchange
+Agency: **Steve Agency**
+
+Client: **HomeExchange**
 
 
 Le layout de ce storyboard au format Apple Keynote (.KTH) est en vente ici: [https://gum.co/scope-treatment](https://gum.co/scope-treatment).{% include gumroad-link.html id="scope-treatment" %}
