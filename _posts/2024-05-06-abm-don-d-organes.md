@@ -1,11 +1,11 @@
 ---
-title: ABM Don d'Organes
+title: ABM Don d'organes / Supporters
 date: 2024-05-06T12:24:48+02:00
 last_modified_at: 2024-09-05 
 author: Yves
 layout: portfolio
 photoswipe: true
-permalink: /abm-don-organes/
+permalink: /abm-don-organes-supporters/
 image: /images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-02C.png
 categories:
   - portfolio
