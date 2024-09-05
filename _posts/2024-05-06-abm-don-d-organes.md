@@ -21,67 +21,67 @@ format: gallery
 <div class="photoswipe-gallery">
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-1.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 01"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 01"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-2.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 02"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 02"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-3.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 03"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 03"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-4.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 04"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 04"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-5.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 05"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 05"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-6.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 06"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 06"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-7.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 75"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 75"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-8.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 08"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 08"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-9.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 09"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 09"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-10.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 010"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 010"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/ABM_Supporters_Storyboard-11.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe 011"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes 011"
   full_width="1920" full_height="1080"
 %}
 </div>
@@ -96,67 +96,67 @@ Une seconde version du storyboard, avec variation des angles de caméra et du pl
 <div class="photoswipe-gallery">
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-01.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 01"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 01"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-02.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 02"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 02"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-02B.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 02B"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 02B"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-02C.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 02C"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 02C"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-02D.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 02D"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 02D"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-03.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 03"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 03"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-04.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 04"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 04"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-05.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 05"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 05"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-06.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 06"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 06"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-07.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 07"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 07"
   full_width="1920" full_height="1080"
 %}
 
 {% include gallery.html
   url="/images/uploads/2024/abm/modif/ABM_Supporters_Storyboard_Retake_20230511-08.png"
-  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, don d'organe, supporters, révision, plan 08"
+  thumb_width="960" alt="Storyboard, Agence de la Biomédecine, campagne don d'organes, supporters, révision, plan 08"
   full_width="1920" full_height="1080"
 %}
 
