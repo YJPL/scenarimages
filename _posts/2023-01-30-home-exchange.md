@@ -1,7 +1,7 @@
 ---
 title: HomeExchange
 date: 2023-01-30T12:30:52+02:00
-last_modified_at: 2024-08-24
+last_modified_at: 2024-09-05
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -9,7 +9,6 @@ guid: /?p=2951
 permalink: /homeexchange/
 image: /images/uploads/2020/01/HomeExchange_storyboard_0021.png
 categories:
-  - portfolio
   - publicité
   - storyboard
 tags:
