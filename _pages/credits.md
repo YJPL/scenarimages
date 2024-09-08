@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2024-09-02
+last_modified_at: 2024-09-09
 author: Yves
 layout: page
 permalink: /credits/
@@ -14,7 +14,7 @@ permalink: /credits/
 
 *Baghdad Messi* **Sahim Omar Kalifa** — A Team Productions — 2021. Storyboard, scène de la voiture piégée.
 
-*Zeevonk* **Domien Huyghe** — A Private View — 2021 (in preparation). Storyboard for VFX & SFX sequences. 
+*Zeevonk* **Domien Huyghe** — A Private View — 2021. Storyboard for VFX & SFX sequences. 
 
 *Piove* **Paolo Strippoli** — Benuts — 2021. Storyboard for VFX & SFX sequences. 
 
