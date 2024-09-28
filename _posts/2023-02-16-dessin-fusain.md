@@ -1,7 +1,7 @@
 ---
 title: Dessins au fusain, 2022-2023
 date: 2023-02-16T12:24:48+02:00
-last_modified_at: 2024-07-26
+last_modified_at: 2024-09-28
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -16,6 +16,12 @@ format: gallery
 
 <div class="photoswipe-gallery">
 {% include gallery.html
+  url="/images/dessins/IMG_2991.jpg"
+  thumb_width="396" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
+  full_width="1200" full_height="1702"
+ %}
+  
+ {% include gallery.html
  url="/images/dessins/IMG_0895_nst.jpg"
  thumb_width="396" alt="Dessin au fusain, Modèle assise"
  full_width="1200" full_height="1800"
@@ -45,11 +51,11 @@ format: gallery
  full_width="1200" full_height="1200"
 %}
 
-{% include gallery.html
+<!-- {% include gallery.html
  url="/images/dessins/IMG_1624_sq.jpg"
  thumb_width="396" alt="Dessin au fusain, Modèle assise"
  full_width="1200" full_height="1200"
-%}
+%} -->
 
 {% include gallery.html
  url="/images/dessins/IMG_1686_nst.jpg"
@@ -63,11 +69,17 @@ format: gallery
  full_width="1200" full_height="1200"
 %}
 
-{% include gallery.html
+<!-- {% include gallery.html
  url="/images/dessins/IMG_2488.jpg"
  thumb_width="396" alt="Dessin au fusain, croquis"
  full_width="1200" full_height="850"
-%}
+%} -->
+
+<!-- {% include gallery.html
+ url="/images/dessins/IMG_2592.jpg"
+ thumb_width="396" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
+ full_width="1920" full_height="1395"
+%} -->
 
 {% include gallery.html
  url="/images/dessins/IMG_2490.jpg"
@@ -76,24 +88,21 @@ format: gallery
 %}
 
 {% include gallery.html
- url="/images/dessins/IMG_2991.jpg"
- thumb_width="396" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
- full_width="1200" full_height="1702"
-%}
-
-{% include gallery.html
  url="/images/dessins/IMG_2769.jpg"
  thumb_width="396" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
  full_width="1200" full_height="1600"
 %}
 
+{% include gallery.html
+ url="/images/dessins/IMG_0895.jpeg"
+ thumb_width="396" alt="Dessin au fusain, Modèle assise"
+ full_width="1200" full_height="1600"
+%} 
 
 {% include gallery.html
- url="/images/dessins/IMG_2592.jpg"
- thumb_width="396" alt="Dessin au fusain, anatomie et recherche graphique, modèle assis"
- full_width="1920" full_height="1395"
-%}
-
-
+ url="/images/dessins/IMG_2797.jpg"
+ thumb_width="396" alt="Dessin au fusain, Modèle assise"
+ full_width="1200" full_height="1600"
+%} 
 
 </div>
