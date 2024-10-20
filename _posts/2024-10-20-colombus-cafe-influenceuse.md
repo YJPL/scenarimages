@@ -1,5 +1,5 @@
 ---
-title: Influencuese
+title: Influenceuse
 date: 2024-10-20T00:06:48+02:00
 last_modified_at: 
 author: Yves
