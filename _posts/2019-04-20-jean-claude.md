@@ -2,7 +2,7 @@
 id: 2825
 title: Jean Claude
 date: 2019-04-20T15:44:46+02:00
-last_modified_at: 2024-07-27
+last_modified_at: 2024-10-20
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -193,8 +193,8 @@ format: gallery
   
   </div>
   
-  Director: **[Fred De Loof](http://freddeloof.com)**
+Réalisateur: **[Fred De Loof](http://freddeloof.com)**
   
-  Production: **HAMLET**
+Production: **HAMLET**
   
-  Client: **Lidl**
+Client: **Lidl**
