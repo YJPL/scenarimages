@@ -1,7 +1,7 @@
 ---
 title: Le Chant des Cygnes
 date: 2024-07-26T00:06:48+02:00
-last_modified_at: 2024-08-01
+last_modified_at: 2024-10-23
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -190,7 +190,7 @@ format: gallery
 </div>
 [Click on any frame to view the board in slideshow mode](#){: .btn .btn--primary}
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZAmOCXgc76U?si=yxEqP2N4rhFW01US" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZAmOCXgc76U?si=j0Jm2GgqfqjdJs8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
