@@ -21,7 +21,7 @@ format: gallery
 
 <br>
 
-*Burger King + Chef Sarran — Cuisine* storyboards
+*Burger King + Chef Sarran — Cuisine*, storyboards
 
 Director: **Fanny & Zoel**
 
