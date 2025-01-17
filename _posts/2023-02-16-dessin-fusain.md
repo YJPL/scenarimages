@@ -1,7 +1,7 @@
 ---
 title: Dessins au fusain, 2022-2023
 date: 2023-02-16T12:24:48+02:00
-last_modified_at: 2024-09-28
+last_modified_at: 2025-01-17
 author: Yves
 layout: portfolio
 photoswipe: true
@@ -51,17 +51,23 @@ format: gallery
  full_width="1200" full_height="1200"
 %}
 
+{% include gallery.html
+url="/images/dessins/A3-dessin-fusain.jpeg"
+thumb_width="396" alt="Dessin au fusain, Modèle"
+full_width="1920" full_height="1333"
+%}
+
 <!-- {% include gallery.html
  url="/images/dessins/IMG_1624_sq.jpg"
  thumb_width="396" alt="Dessin au fusain, Modèle assise"
  full_width="1200" full_height="1200"
 %} -->
 
-{% include gallery.html
+<!-- {% include gallery.html
  url="/images/dessins/IMG_1686_nst.jpg"
  thumb_width="396" alt="Dessin au fusain, Modèle assise"
  full_width="1200" full_height="1500"
-%}
+%} -->
 
 {% include gallery.html
  url="/images/dessins/IMG_1699_nst.jpg"
