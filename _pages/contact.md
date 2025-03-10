@@ -2,7 +2,7 @@
 id: 435
 title: Contact
 permalink: /contact/
-last_modified_at: 2024-03-04
+last_modified_at: 2025-03-10
 author: Yves
 layout: page
 guid: http://film-storyboards.com/?page_id=2
@@ -18,7 +18,6 @@ Contact: *Yves Capelle*
 
 Mobile/WhatsApp: +32 475 418 327  
  [email enquiries](mailto:yves@film-storyboards.com?subject=Question%20envoyée%20depuis%20scénarimages%20site)  
-Skype: alternatyvesoutc
 
 #### Brussels, Belgium
 
