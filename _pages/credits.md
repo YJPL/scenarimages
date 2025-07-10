@@ -125,7 +125,7 @@ Storyboard pour **DG Justice** Agency: ESN Production: Une Très Grosse Boîte
 
 **DG Trade** — Direction artistique et illustration de la <a title="EU trade policy in animation" href="http://film-storyboards.fr/animation-ligne-claire/" target="_blank" rel="noopener noreferrer">politique commerciale de l'Union européenne expliquée en animation</a> Agence: ESN Production, live capture, animation: <a title="Visual effects" href="http://www.benuts.be/" target="_blank" rel="noopener noreferrer">Benuts</a>, 2013.
 
-Storyboards pour une série de vidéos sur des thèmes incluants l'espace Schengen, les politiques d'asile, le cybercrime, le traffic de personnes, le crime organisé, l'émigration, l'integration et le terrorisme Client: **European Commission directorate for Home Affairs** Agence: ESN Production: Mindtaste, 2012.
+Storyboards pour une série de vidéos sur des thèmes incluants l'espace Schengen, les politiques d'asile, le cybercrime, le traffic de personnes, le crime organisé, la migration, l'integration et le terrorisme Client: **European Commission directorate for Home Affairs** Agence: ESN Production: Mindtaste, 2012.
 
 ## Publicité
 
