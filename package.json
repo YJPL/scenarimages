@@ -42,6 +42,6 @@
     "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano"
   },
   "dependencies": {
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.3"
   }
 }
