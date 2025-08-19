@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2025-08-06
+last_modified_at: 2025-08-19
 author: Yves
 layout: page
 permalink: /credits/
@@ -128,6 +128,8 @@ Storyboard pour **DG Justice** Agency: ESN Production: Une Très Grosse Boîte
 Storyboards pour une série de vidéos sur des thèmes incluants l'espace Schengen, les politiques d'asile, le cybercrime, le traffic de personnes, le crime organisé, la migration, l'integration et le terrorisme Client: **European Commission directorate for Home Affairs** Agence: ESN Production: Mindtaste, 2012.
 
 ## Publicité
+
+J'ai dessiné plus de 450 storyboards publicitaires depuis 1999, ainsi que les visuels d'innombrables campagnes print et web qui ont aidé agences et productions à présenter et vendre leurs idées, planifier, budgétiser, et tourner leurs films.
 
 ### Réalisateurs
 
