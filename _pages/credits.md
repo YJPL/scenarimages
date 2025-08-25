@@ -1,13 +1,15 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2025-08-19
+last_modified_at: 2025-08-25
 author: Yves
 layout: page
 permalink: /credits/
 ---
 
 ## Longs métrages
+*Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard
+
 *Largo Winch : Le Prix de l'argent* **Olivier Masset-Depasse** — Benuts — 2023. Concept art
 
 *La Vie Pour De Vrai* **Dany Boon** — Artemis Productions — 2022. Storyboard
