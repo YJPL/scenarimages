@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2025-08-25
+last_modified_at: 2025-09-12
 author: Yves
 layout: page
 permalink: /credits/
@@ -22,9 +22,9 @@ permalink: /credits/
 
 *Piove* **Paolo Strippoli** — Benuts — 2021. Storyboard for VFX & SFX sequences. 
 
-*[Atlantique](https://www.imdb.com/title/tt10199586/)* **Mati Diop** — Concept design pour la tour Muejiza (VFX)
+*[Atlantique](https://www.imdb.com/title/tt10199586/)* **Mati Diop**  — Benuts — Concept design pour la tour Muejiza (VFX)
 
-*Jumbo* **Zoé Wittock** — Kwassa Films &#8211; 2018. Storyboard pour les séquences VFX & SFX.
+*Jumbo* **Zoé Wittock** — Kwassa Films  — 2018. Storyboard pour les séquences VFX & SFX.
 
 *[Mon Ket](https://www.imdb.com/title/tt8398768/)* **François Damiens** — Artémis Productions — 2018 (pre production) Storyboard pour le générique et les scènes d&rsquo;évasion avec hélicoptère.
 
