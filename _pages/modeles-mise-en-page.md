@@ -2,7 +2,7 @@
 id: 2513
 title: modèles de mise en page
 date: 2017-04-18T09:43:13+02:00
-last_modified_at: 2025-07-09
+last_modified_at: 2025-09-20
 author: Yves
 layout: page
 guid: https://film-storyboards.fr/?page_id=2513
@@ -21,7 +21,6 @@ Il est facile de trouver sur le web des modèles de mise en page prêts à l'em
 ## 02. InDesign Storyboard modèle mise en page pour ratio 2:1 (18:9) ou Univisium — Avenir Light 10pt DIN A4 horizontal
 
 
-
 <div class="gumroad-product-embed" data-gumroad-product-id="hRwlK" data-outbound-embed="true">
   <a href="https://gumroad.com/l/hRwlK">Loading...</a>
 </div>
@@ -32,7 +31,6 @@ Il est facile de trouver sur le web des modèles de mise en page prêts à l'em
 ## 03. Thème pour Apple Keynote Scope Storyboard 2.39:1 DIN A4 horizontal
 
 
-
 <div class="gumroad-product-embed" data-gumroad-product-id="iEMRxp" data-outbound-embed="true">
   <a href="https://gumroad.com/l/iEMRxp">Loading...</a>
 </div>
@@ -40,13 +38,11 @@ Il est facile de trouver sur le web des modèles de mise en page prêts à l'em
 ## 04. InDesign modèle mise en page storyboard publicitaire ratio 1.85: 1 Avenir Book 10pt A4 vertical
 
 
-
 <div class="gumroad-product-embed" data-gumroad-product-id="ad-185-1A4" data-outbound-embed="true">
   <a href="https://gumroad.com/l/ad-185-1A4">Loading...</a>
 </div>
 
 ## 05. Thème Apple Keynote Storyboard mise en page pour ratio 1.85:1 (écran large) Courier 10pt A4 horizontal
-
 
 
 <div class="gumroad-product-embed" data-gumroad-product-id="keynote_story_wide_screen">
@@ -62,7 +58,6 @@ Il est facile de trouver sur le web des modèles de mise en page prêts à l'em
 </div>
 
 ## 07. InDesign Storyboard modèle mise en page, ratio 1.85:1 Courier 10 DIN A4 horizontal avec pagination
-
 
 
 <div class="gumroad-product-embed" data-gumroad-product-id="185_A4" data-outbound-embed="true">
