@@ -1,7 +1,7 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2025-09-12
+last_modified_at: 2025-09-20
 author: Yves
 layout: page
 permalink: /credits/
@@ -131,7 +131,7 @@ Storyboards pour une série de vidéos sur des thèmes incluants l'espace Scheng
 
 ## Publicité
 
-J'ai dessiné plus de 450 storyboards publicitaires depuis 1999, ainsi que les visuels d'innombrables campagnes print et web qui ont aidé agences et productions à présenter et vendre leurs idées, planifier, budgétiser, et tourner leurs films.
+J'ai dessiné plus de 500 storyboards publicitaires depuis 1999, ainsi que les visuels d'innombrables campagnes print et web qui ont aidé agences et productions à présenter et vendre leurs idées, planifier, budgétiser, et tourner leurs films.
 
 ### Réalisateurs
 
