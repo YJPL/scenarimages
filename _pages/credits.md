@@ -1,6 +1,6 @@
 ---
 title: Crédits
-date: 2012-02-27T11:32:22+01:00
+# date: 2012-02-27T11:32:22+01:00
 last_modified_at: 2026-02-07
 author: Yves
 layout: page
