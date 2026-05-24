@@ -2,7 +2,7 @@
 id: 2513
 title: modèles de mise en page
 date: 2017-04-18T09:43:13+02:00
-last_modified_at: 2023-04-03 12:48:48 +0100
+last_modified_at: 2026-05-24 12:48:48 +0100
 author: Yves
 layout: page
 guid: https://film-storyboards.fr/?page_id=2513
@@ -83,8 +83,6 @@ Voir plus de [modèles en magasin](https://storyboards.gumroad.com).
 
 S'inscrire pour suivre les mises à jours des layouts.
 
-#### Le format idml est compatible avec toutes les versions depuis InDesign CS4 jusqu'à la version courante (INDESIGN CC 2023).
+#### Le format idml est compatible avec toutes les versions depuis InDesign CS4 jusqu'à la version courante (InDesign CS 2026).
 
 #### Les modèles InDesign (IDML) sont compatibles Mac & PC. Keynote fonctionne seulement sur Mac. Une license est nécessaire pour chaque police utilisée.
-
-&nbsp;
