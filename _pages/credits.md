@@ -1,13 +1,18 @@
 ---
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
-last_modified_at: 2026-02-07
+description: Film Storyvoards film, animation, and cross media credits
+last_modified_at: 2026-06-29
 author: Yves
 layout: page
 permalink: /credits/
 ---
 
 ## Longs métrages
+*Avis de Tempête* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard.
+
+*Caballé* **Patricia Ortega** — La Claqueta / Menuetto Film — 2025. Illustrations.
+
 *Les Parfait(s)* **Ludovic Bernard** — Umedia Production Services — 2025. Storyboard
 
 *Largo Winch : Le Prix de l'argent* **Olivier Masset-Depasse** — Benuts — 2023. Concept art
