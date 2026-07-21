@@ -1,8 +1,9 @@
 ---
 id: 103
 title: Profil
+description: Profil, scénarimages, l'illustration de pré production, avec la narration toujours au centre du travail
 date: 2010-08-04T03:24:08+02:00
-last_modified_at: 2025-07-09
+last_modified_at: 2025-07-21
 author: Yves
 layout: page
 permalink: /profil/
