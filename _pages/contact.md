@@ -1,8 +1,9 @@
 ---
 id: 435
 title: Contact
+description: Travaillons ensemble
 permalink: /contact/
-last_modified_at: 2025-03-10
+last_modified_at: 2026-07-20
 author: Yves
 layout: page
 guid: http://film-storyboards.com/?page_id=2
