@@ -1,8 +1,9 @@
 ---
 id: 2513
 title: modèles de mise en page
+description: Patrons et modèles de mise en page prêts à l'emploi pour film et animation
 date: 2017-04-18T09:43:13+02:00
-last_modified_at: 2025-09-20
+last_modified_at: 2026-07-20
 author: Yves
 layout: page
 guid: https://film-storyboards.fr/?page_id=2513
