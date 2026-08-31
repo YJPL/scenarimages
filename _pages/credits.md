@@ -2,7 +2,7 @@
 title: Crédits
 # date: 2012-02-27T11:32:22+01:00
 description: Film Storyvoards film, animation, et cross media, crédits
-last_modified_at: 2026-07-20
+last_modified_at: 2026-08-31
 author: Yves
 layout: page
 permalink: /credits/
