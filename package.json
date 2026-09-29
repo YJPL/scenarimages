@@ -19,7 +19,7 @@
   },
   "devDependencies": {
    "autoprefixer": "^10.6.1",
-   "cssnano": "^9.0.5",
+   "cssnano": "^9.1.1",
    "postcss": "^8.5.28",
    "postcss-cli": "^12.0.0",
    "postcss-import": "^17.0.0",
@@ -42,6 +42,6 @@
     "minify:css": "postcss css/stb-tachyons.css > css/stb-tachyons.min.css --use cssnano"
   },
   "dependencies": {
-    "sharp": "^0.35.4"
+    "sharp": "^0.35.5"
   }
 }
